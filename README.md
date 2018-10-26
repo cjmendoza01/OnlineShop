@@ -1,10 +1,10 @@
-# Cardo - The Province Man's Web App
+# Online Shop
 
-This web app requires Node 8 or higher.
+
 
 How to run the web app.
 
 ```
-npm install
-node index.js
+localhost:3300 - for adding, editing, deleting
+localhost:3300/customer -for ordering and cart
 ```
